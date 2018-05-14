@@ -1,0 +1,7 @@
+c:\users\mssar\source\repos\Car Dealership App\Car Dealership App\bin\Debug\Car Dealership App.exe.config
+c:\users\mssar\source\repos\Car Dealership App\Car Dealership App\bin\Debug\Car Dealership App.exe
+c:\users\mssar\source\repos\Car Dealership App\Car Dealership App\bin\Debug\Car Dealership App.pdb
+c:\users\mssar\source\repos\Car Dealership App\Car Dealership App\obj\Debug\Car Dealership App.csprojResolveAssemblyReference.cache
+c:\users\mssar\source\repos\Car Dealership App\Car Dealership App\obj\Debug\Car Dealership App.csproj.CoreCompileInputs.cache
+c:\users\mssar\source\repos\Car Dealership App\Car Dealership App\obj\Debug\Car Dealership App.exe
+c:\users\mssar\source\repos\Car Dealership App\Car Dealership App\obj\Debug\Car Dealership App.pdb
